@@ -148,3 +148,12 @@ Die einzelne Status-LED an Pin D5 gibt visuelles Feedback über den aktuellen Sp
 
 4.  **Neustart:** Drücke jederzeit den Taster an **A2**, um das Spiel neu zu starten.
 
+<!-- project-standards:start -->
+## Projektführung
+
+Lehrprojekt für Arduino Uno, FastLED und ein LED-/Taster-Spielfeld mit vorhandener zweisprachiger Hardwaredokumentation.
+
+[Dokumentation und Einrichtung](docs/PROJECT_GUIDE.md) · [Agentenregeln](AGENTS.md) · [Beiträge und Prüfung](CONTRIBUTING.md) · [Sicherheitsmeldungen](SECURITY.md)
+
+Der dokumentierte Inventarstand ist vom 22.10.2026. Tatsächlich ausgeführte Prüfungen und offene Betriebs-/Lizenzfragen werden im Projektleitfaden getrennt ausgewiesen.
+<!-- project-standards:end -->
